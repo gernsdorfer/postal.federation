@@ -13,7 +13,7 @@
     "author": "Jim Cowart <jim@ifandelse.com>",
     "repository": {
         "type": "git",
-        "url": "git://github.com/postaljs/postal.federation.git"
+        "url": "git://github.com/gernsdorfer/postal.federation.git"
     },
     "main": [
         "lib/postal.federation.js"
